@@ -21,3 +21,5 @@ git clone https://github.com/brendsdev/sistema-cadastro-clientes-python.git
 pip install customtkinter openpyxl
 
 python app.py
+
+![Interface do sistema](interface.png)
