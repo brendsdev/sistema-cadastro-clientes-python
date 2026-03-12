@@ -22,4 +22,4 @@ pip install customtkinter openpyxl
 
 python app.py
 
-![Interface do sistema](interface.png)
+![Interface do sistema](interface.png.png)
